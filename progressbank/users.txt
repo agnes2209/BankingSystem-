@@ -1,0 +1,4 @@
+{'name': 'Agnes', 'phno': '1234567890', 'adress': '123 Main Street', 'email': 'agnes@example.com', 'user_name': 'Agnes', 'password': 'Agnes123', 'AcNo': 50000001, 'Ac_balance': 4600.0}
+{'name': 'John', 'phno': '9876543210', 'adress': '456 Elm Street', 'email': 'john.doe@example.com', 'user_name': 'JohnDoe', 'password': 'John123', 'AcNo': 50000002, 'Ac_balance': 1500}
+{'name': 'Mary', 'phno': '5556667777', 'adress': '789 Pine Avenue', 'email': 'mary.jane@example.com', 'user_name': 'MaryJane', 'password': 'Mary123', 'AcNo': 50000003, 'Ac_balance': 2000}
+{'name': 'Agnes', 'phno': '8120', 'adress': 'asdf', 'email': 'asadsd', 'user_name': 'sasdada', 'password': '123', 'AcNo': 50000005, 'Ac_balance': 0}
